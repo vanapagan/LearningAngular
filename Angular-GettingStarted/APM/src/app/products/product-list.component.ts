@@ -4,7 +4,6 @@ import { listener } from "@angular/core/src/render3/instructions";
 import { ProductService } from "./product.service";
 
 @Component({
-    selector: 'pm-products',
     templateUrl: './product-list.component.html',
     styleUrls: ['./product-list.component.css']
 }) 
