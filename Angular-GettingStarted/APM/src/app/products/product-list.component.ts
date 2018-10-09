@@ -1,6 +1,5 @@
 import { Component, OnInit } from "@angular/core";
 import { IProduct } from "./product";
-import { listener } from "@angular/core/src/render3/instructions";
 import { ProductService } from "./product.service";
 
 @Component({
